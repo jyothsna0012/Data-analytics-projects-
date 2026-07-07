@@ -135,9 +135,7 @@ Data-Analytics-Projects/
 
 ## 📬 Connect With Me
 
-**LinkedIn:** https://linkedin.com/in/yourlinkedin
 
----
 
 ⭐ If you like these projects, feel free to star this repository!
 

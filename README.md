@@ -1,4 +1,5 @@
-# 📊 Data Analytics Projects Portfolio
+ #  INTERN ID :CITS6379
+ # 📊 Data Analytics Projects Portfolio 
 
 Welcome to my **Data Analytics Portfolio**! This repository contains real-world data analytics projects built using Excel, SQL, Python, Power BI, and Tableau. Each project focuses on solving business problems through data cleaning, analysis, visualization, and actionable insights.
 
